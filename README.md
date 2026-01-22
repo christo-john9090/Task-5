@@ -1,2 +1,2 @@
 # Task-5
-Malware Types &amp; Behavior Analysis (Basic)
+I uploaded a known malware sample to virus total website. Analysed the detection report. And summarised the findings. Created a pdf about it. 
